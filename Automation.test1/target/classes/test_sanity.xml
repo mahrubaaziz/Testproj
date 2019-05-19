@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Practice">
+ 
+   <classes>
+      <class name="com.crm.qa.testcases.LoginPageTest"></class>
+      <class name="com.crm.qa.testcases.ContactTest"></class>	
+      <class name="com.crm.qa.testcases.SearchItemTest"></class>	
+      <class name="com.crm.qa.testcases.AddWishListTest"></class>
+      <class name="com.crm.qa.testcases.CheckOutProductTest"></class>
+    </classes>
+  </test>
+</suite>
+
